@@ -1,4 +1,8 @@
-# Duck-Decoder
+# Fork of Duck-Decoder
+I added some tweaks the [amdaccount's](https://github.com/admaccount/) Python 3 implementation of [JPaulMora's](https://github.com/JPaulMora/) script :
+- Support for capitalization
+
+# Duck-Decoder by JpaulMora & admaccount
 
 ## Introduction
 
